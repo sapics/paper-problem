@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "jest": "^27.5.1",
+    "paper": "^0.12.15",
     "paper-jsdom-canvas": "^0.12.15"
   }
 }
