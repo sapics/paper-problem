@@ -1,4 +1,4 @@
-const paper = require("paper-jsdom-canvas");
+const paper = require("paper");
 
 test("paper problem demo", () => {
   paper.setup([1024, 1024])
